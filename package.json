@@ -12,8 +12,8 @@
     "db:seed": "tsx prisma/seed.ts"
   },
   "dependencies": {
-    "@jaostudio/core": "^0.2.1",
-    "@jaostudio/ui": "^0.2.1",
+    "@jaostudio/core": "^0.2.2",
+    "@jaostudio/ui": "^0.2.2",
     "@libsql/client": "^0.17.0",
     "@prisma/adapter-libsql": "^7.8.0",
     "bcryptjs": "^2.4.3",
